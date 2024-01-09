@@ -8,6 +8,12 @@ sink the number ships and win!
 ## implementation
 source code is written in C, and the compile instructions and settings are done in using makefile language 
 
+## how to run
+simple download the directory and open a terminal window in that directory and run
+```
+./a.out
+```
+
 # screenshots 
 
 game start
