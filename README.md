@@ -9,6 +9,7 @@ sink the number ships and win!
 source code is written in C, and the compile instructions and settings are done in using makefile language 
 
 # screenshots 
+
 game start
 ![image](https://github.com/Siqbals/Battle-Ship/assets/155264034/2f323216-a832-41ca-a794-ab3a0abaaf19)
 
